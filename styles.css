@@ -1,1 +1,16 @@
-
+body {
+    background-color: #D3A75D; 
+    color: black;
+    font-family: 'Merriweather', serif; 
+   }
+  h1 {
+    border: 2px solid black;
+    font-family: bold 'Work Sans', sans-serif;
+    h2 { 
+        font-family: bold 'Work Sans', sans-serif;
+    }
+  }
+  li { 
+    padding: 10px;  
+    margin: 10px;
+  }
